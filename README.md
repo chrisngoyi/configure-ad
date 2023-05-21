@@ -55,7 +55,7 @@ This Picture shows the Network Watcher
 <br />
 
 <p>
-<img src="https://i.imgur.com/mUuHha6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l5U1hLD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
  
