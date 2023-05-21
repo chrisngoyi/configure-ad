@@ -69,12 +69,11 @@ This is Wireshark
 <img src="https://i.imgur.com/Xc6mecj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-Ntework Inspecting Protocol
+Inspecting Network Protocols
 <p>
 <img src="https://i.imgur.com/R3EzICh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-Ping Succeeds between two virtuals Machines that are DC-1 and Client1
 <p>
 <img src="https://i.imgur.com/pIMpd0P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
