@@ -61,11 +61,11 @@ This Picture shows the Network Watcher
  
 </p>
 <br />
-Active Directory outline
+PowerShell
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/pCFyE5g.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
