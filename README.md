@@ -61,7 +61,7 @@ This Picture shows the Network Watcher
  
 </p>
 <br />
-Wiresheck
+This is Wireshark
 </p>
 <br />
 
@@ -69,7 +69,7 @@ Wiresheck
 <img src="https://i.imgur.com/Xc6mecj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-Ping Succeeds between two virtuals Machines that are DC-1 and Client1
+Ntework Inspecting Protocol
 <p>
 <img src="https://i.imgur.com/R3EzICh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
