@@ -61,16 +61,10 @@ This Picture shows the Network Watcher
  
 </p>
 <br />
-PowerShell
+Wiresheck
 </p>
 <br />
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 
- 
-Ping Succeeds between two virtuals Machines that are DC-1 and Client1
 <p>
 <img src="https://i.imgur.com/Xc6mecj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
